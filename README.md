@@ -17,4 +17,5 @@ Ensuring that everyone is following Scrum guidelines and removing any impediment
 
 ## Scrum in a Nutshell 
 
-**![](https://lh4.googleusercontent.com/KSAG0sRjdraa8chVG-ZcxxwxVJpINWj85e2fexypAgTX7Zh860Y1d9IqgXDrG2kj1p0z57ILWdrUF07EZC3G-m1LjviEJNPYptlEfRQKkET3uFQ3ARUdXwTv1UOebqdwb0cTC-LsgURxLXsNF1_0JIkbmA=s2048)**
+**<img width="1408" alt="Screen Shot 2023-10-23 at 10 36 04 AM" src="https://github.com/Wilsielouidor/Scrum-Framework/assets/142513380/29145b91-9b9f-44ec-aa94-67976a8134fc">
+**
